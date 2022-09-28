@@ -1,6 +1,4 @@
-# React Base Project
-
-This a sample react project we regularly use at Manush Technologies.
+# BURGER RESTAURANT
 
 ## Usage
 
@@ -17,6 +15,8 @@ This a sample react project we regularly use at Manush Technologies.
     yarn build:prod # build project in production mode
     yarn build:stage # build project in stage mode
 ```
+
+## 
 
 ## Folder Structure
 
@@ -45,3 +45,5 @@ This a sample react project we regularly use at Manush Technologies.
 
     3. if you encounter error when comitting to github --> most probable reason is
        that your code does not meet our standards. Please fix the linting errors in that case.
+    
+    4. react-dnd needs to installed
