@@ -15,6 +15,7 @@
     yarn build:prod # build project in production mode
     yarn build:stage # build project in stage mode
 ```
+Click [here](https://burger-builder-mtech.netlify.app/) to launch DEMO.
 
 ## 
 
