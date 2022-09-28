@@ -1,0 +1,10 @@
+.burger {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px auto;
+}
+button {
+    margin: 15px auto;
+}
