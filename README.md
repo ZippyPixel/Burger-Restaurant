@@ -46,4 +46,4 @@
     3. if you encounter error when comitting to github --> most probable reason is
        that your code does not meet our standards. Please fix the linting errors in that case.
     
-    4. react-dnd needs to installed
+    4. react-dnd needs to be installed
